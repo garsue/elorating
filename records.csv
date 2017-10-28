@@ -1,0 +1,13 @@
+Datetime,NameA,RateA,WinOrLoseA,PointA,PointB,WInOrLoseB,RateB,NameB
+2017/10/26,Taro,1500,WIN,11,6,LOSE,1500,Jiro
+2017/10/26,Saburo,1500,WIN,11,9,LOSE,1500,Shiro
+2017/10/27,Taro,,WIN,11,6,LOSE,,Goro
+2017/10/27,Taro,,WIN,11,5,LOSE,,Jiro
+2017/10/27,Goro,,LOSE,8,11,WIN,,Jiro
+2017/10/27,Shiro,,WIN,11,0,LOSE,,Saburo
+2017/10/27,Taro,,WIN,11,7,LOSE,,Goro
+2017/10/27,Taro,,WIN,11,7,LOSE,,Jiro
+2017/10/27,Jiro,,WIN,11,4,LOSE,,Goro
+2017/10/27,Taro,,WIN,11,8,LOSE,,Shiro
+2017/10/27,Taro,,WIN,11,8,LOSE,,Goro
+2017/10/27,Goro,,WIN,11,9,LOSE,,Shiro
