@@ -112,7 +112,7 @@ def calculate_rate(rate, win, win_probability):
     自分のレート、勝敗、勝利確率から補正されたレートを計算する。
     """
     # プレーヤーの勝利数。1試合ごとにレート計算するので0か1のいずれか
-    win_count = 0 if win else 1  # 勝ってたら勝利数1に
+    win_count = 1 if win else 0  # 勝ってたら勝利数1に
     return rate + K * (win_count - win_probability)
 
 
